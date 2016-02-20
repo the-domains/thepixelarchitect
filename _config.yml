@@ -1,0 +1,14 @@
+layout_spectrum: 0.6446809
+typography_spectrum: 0.6276596
+color:
+  saturation: 0.4079193
+  lightness: 0.1884267
+  brandStrength: 0.9106383
+  brandColors:
+    - '#271F1F'
+    - '#FFFFFF'
+    - '#776E65'
+    - '#B3ADA3'
+    - '#F26E76'
+  rhythmicContrast: 0.6171854
+name: thepixelarchitect
